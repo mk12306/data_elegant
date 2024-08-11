@@ -1,0 +1,11 @@
+README.md
+setup.py
+data_elegant/__init__.py
+data_elegant/cleaner.py
+data_elegant/filter.py
+data_elegant.egg-info/PKG-INFO
+data_elegant.egg-info/SOURCES.txt
+data_elegant.egg-info/dependency_links.txt
+data_elegant.egg-info/not-zip-safe
+data_elegant.egg-info/requires.txt
+data_elegant.egg-info/top_level.txt

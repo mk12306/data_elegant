@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: data-elegant
+Version: 0.2
+Summary: data_elegant is a data processing module that covers a variety of commonly used data processing methods, aiming to help users process data elegantly
+Home-page: UNKNOWN
+Author: mk12306
+Author-email: wangkai_12306@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+

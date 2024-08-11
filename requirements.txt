@@ -1,0 +1,5 @@
+jieba==0.42.1
+numpy==2.0.1
+opencc==1.1.8
+sentencepiece==0.2.0
+emoji==2.2.0
